@@ -6,7 +6,7 @@ public class Quoter {
 		if (name.equals("1")){
 			result = 10;
 		} else if (name.equals("2")){
-			result = 45;
+			result = 45; 
 		} else if (name.equals("3")){
 			result = 20;
 		} else if (name.equals("4")){
