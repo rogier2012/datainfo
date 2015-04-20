@@ -12,7 +12,7 @@ public class Quoter {
 		} else if (name.equals("4")){
 			result = 35;
 		} else if (name.equals("5")){
-			result = 50;
+			result = 50; 
 		} else {
 			result = 0;
 		}
