@@ -8,7 +8,7 @@ public class Quoter {
 		} else if (name.equals("2")){
 			result = 45; 
 		} else if (name.equals("3")){
-			result = 20;
+			result = 20; 
 		} else if (name.equals("4")){
 			result = 35;
 		} else if (name.equals("5")){
